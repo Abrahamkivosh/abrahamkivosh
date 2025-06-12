@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 - 🌐 [Lagaster](https://lagaster.org/)  
 - 🐦 [Twitter](https://twitter.com/abrahamkivosh)  
-- 📩 Email: admin@lagaster.org(admin@lagaster.org)
+- 📩 Email: [admin@lagaster.org](admin@lagaster.org)
 
 ---
 
